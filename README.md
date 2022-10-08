@@ -1,1 +1,1 @@
-# This project entails working on an Automatic Car Parking Systme using MATLAB
+# This project entails working on an Automatic Car Parking System using MATLAB
